@@ -4,7 +4,7 @@
 
 > A simple unlocker for Rekonise Ad-Links
 
-### ✨ [Demo](https://gamekiller.eu/)
+### ✨ [Demo](https://gamekiller.at/)
 
 ## Author
 
